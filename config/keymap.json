@@ -8,16 +8,16 @@
   ],
   "layers": [
     [
-                "&kp ESC",         "&kp N1",       "&kp N2",           "&kp N3",    "&kp N4", "&kp N5",                      "&kp N6",        "&kp N7", "&kp N8",    "&kp N9",   "&kp N0", "&kp MINUS", "&kp EQUAL", "&kp BACKSLASH", "&kp K_MUTE",
-                "&kp TAB",          "&kp Q",        "&kp W",            "&kp E",     "&kp R",  "&kp T",                       "&kp Y",         "&kp U",  "&kp I",     "&kp O",    "&kp P",  "&kp LBKT",  "&kp RBKT", "&kp BACKSPACE",
-       "&kp LEFT_CONTROL",          "&kp A",        "&kp S",            "&kp D",     "&kp F",  "&kp G",                       "&kp H",         "&kp J",  "&kp K",     "&kp L", "&kp SEMI",   "&kp SQT",   "&kp RET",
-              "&kp LSHFT", "&kp LEFT_SHIFT",        "&kp Z",            "&kp X",     "&kp C",  "&kp V",                       "&kp B",         "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT",  "&kp FSLH", "&kp RSHFT",          "&out",      "&mo 1",
-                                     "&out", "&kp LEFT_ALT", "&kp LEFT_COMMAND", "&kp SPACE",   "&out",           "&kp RIGHT_COMMAND", "&kp RIGHT_ALT",   "&out",      "&out"
+                "&kp ESC", "&kp N1",       "&kp N2",           "&kp N3",    "&kp N4", "&kp N5",                      "&kp N6",        "&kp N7", "&kp N8",    "&kp N9",   "&kp N0", "&kp MINUS", "&kp EQUAL", "&kp BACKSLASH", "&kp K_MUTE",
+                "&kp TAB",  "&kp Q",        "&kp W",            "&kp E",     "&kp R",  "&kp T",                       "&kp Y",         "&kp U",  "&kp I",     "&kp O",    "&kp P",  "&kp LBKT",  "&kp RBKT", "&kp BACKSPACE",
+       "&kp LEFT_CONTROL",  "&kp A",        "&kp S",            "&kp D",     "&kp F",  "&kp G",                       "&kp H",         "&kp J",  "&kp K",     "&kp L", "&kp SEMI",   "&kp SQT",   "&kp RET",
+              "&kp LSHFT",  "&none",        "&kp Z",            "&kp X",     "&kp C",  "&kp V",                       "&kp B",         "&kp N",  "&kp M", "&kp COMMA",  "&kp DOT",  "&kp FSLH", "&kp RSHFT",         "&none",      "&mo 1",
+                            "&none", "&kp LEFT_ALT", "&kp LEFT_COMMAND", "&kp SPACE",  "&none",           "&kp RIGHT_COMMAND", "&kp RIGHT_ALT",  "&none",     "&none"
     ], [
-          "&kp GRAVE",   "&kp F1",        "&kp F2",     "&kp F3",     "&kp F4", "&kp F5",                    "&kp F6",          "&kp F7", "&kp F8", "&kp F9",        "&kp F10",        "&kp F11",         "&kp F12",    "&mo", "&trans",
+          "&kp GRAVE",   "&kp F1",        "&kp F2",     "&kp F3",     "&kp F4", "&kp F5",                    "&kp F6",          "&kp F7", "&kp F8", "&kp F9",        "&kp F10",        "&kp F11",         "&kp F12", "&trans", "&trans",
        "&out OUT_TOG",   "&trans",   "&kp PAGE_UP",     "&trans",     "&trans", "&trans",                    "&trans",          "&trans", "&trans", "&trans",         "&trans",   "&kp UP_ARROW",          "&trans", "&reset",
              "&trans", "&kp HOME", "&kp PAGE_DOWN",    "&kp END",     "&trans", "&trans",                    "&trans",          "&trans", "&trans", "&trans", "&kp LEFT_ARROW", "&kp DOWN_ARROW", "&kp RIGHT_ARROW",
-         "&kp C_PREV",    "&none",        "&trans",     "&trans",     "&trans", "&trans",                    "&trans",          "&trans", "&trans", "&trans",         "&trans",         "&trans",          "&trans", "&trans", "&trans",
+             "&trans",    "&none",        "&trans",     "&trans",     "&trans", "&trans",                    "&trans",          "&trans", "&trans", "&trans",         "&trans",         "&trans",          "&trans", "&trans", "&trans",
                          "&trans",    "&bt BT_PRV", "&bt BT_NXT", "&bt BT_CLR", "&trans",           "&rgb_ug RGB_TOG", "&rgb_ug RGB_EFF", "&trans", "&trans"
     ]
   ]
